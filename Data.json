@@ -1,0 +1,10 @@
+[{
+    "Names": "MANOJ",
+    "SNO": "1",
+    "Course": "programs",
+    "Marks": 67,
+    "Hobbies": {
+        "h1": "Reading",
+        "h2": "Playing"
+    }
+}]
